@@ -11,6 +11,8 @@ This is a simple admin interface for [Spring Boot](http://projects.spring.io/spr
 
 This application provides a simple UI to administrate Spring Boot applications. It provides the following features for registered application.
 
+Test
+
 * Show health status
 * Show details, like
  * JVM & memory metrics
